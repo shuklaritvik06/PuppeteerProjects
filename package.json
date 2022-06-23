@@ -1,0 +1,27 @@
+{
+  "name": "coinremind",
+  "version": "1.0.0",
+  "description": "This is a app built with puppeteer to remind user to buy coins depending on the price they set",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuklaritvik06/coinRemind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuklaritvik06/coinRemind/issues"
+  },
+  "homepage": "https://github.com/shuklaritvik06/coinRemind#readme",
+  "dependencies": {
+    "cron": "^2.0.0",
+    "nodemailer": "^6.7.5",
+    "puppeteer": "^14.4.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
