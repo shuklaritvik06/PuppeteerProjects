@@ -2,5 +2,5 @@
 
 Exploring Puppeteer
 
-- [ ] coinRemind
+- [x] coinRemind
 - [ ] Codechef Problem Solving
