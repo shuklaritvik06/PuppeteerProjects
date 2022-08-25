@@ -3,4 +3,4 @@
 Exploring Puppeteer
 
 - [x] coinRemind
-- [ ] Codechef Problem Solving
+- [ ] Problem Solving Automation
